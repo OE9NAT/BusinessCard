@@ -22,3 +22,6 @@ https://sunnyhe.org/projects-businesscard.html
 
 voltage detector
 https://hackaday.io/project/203294-25-year-anniversary-business-card/details
+
+linux
+https://www.thirtythreeforty.net/posts/2019/12/my-business-card-runs-linux/
