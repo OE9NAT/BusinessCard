@@ -1,0 +1,16 @@
+requirmentsts for card:
+
+1. visual appealing
+	1.1 Name, contactditails
+	1.2 sozial reference
+	1.3 QR code to website link (github projects)
+
+2.technical implementations
+	2.1 a circet that has an idear or is reproducable
+	2.2 power by USB-c plug
+
+3. good to now to get started
+https://hackaday.com/2021/04/21/easy-usb%E2%80%91c-power-for-all-your-devices/
+
+https://hackaday.com/2016/11/17/creating-a-pcb-in-everything-kicad-part-1/
+https://hackaday.com/2016/12/09/creating-a-pcb-in-everything-kicad-part-2/
