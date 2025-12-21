@@ -1,1 +1,5 @@
-business_card_philipp/business_card_philipp-backups/
+# Ignore KiCad backup folder for Philipp's business card
+/business_card_philipp/business_card_philipp-backups/
+
+# Ignore KiCad footprint cache (large generated file)
+/business_card_philipp/fp-info-cache
