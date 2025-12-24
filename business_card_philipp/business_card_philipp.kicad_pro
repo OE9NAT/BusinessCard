@@ -633,6 +633,10 @@
     [
       "6a395108-aa09-4313-af9d-9fcd0985511c",
       "Root"
+    ],
+    [
+      "ff10b501-c72b-4698-b79d-f6123448d499",
+      "USB_connection"
     ]
   ],
   "text_variables": {}

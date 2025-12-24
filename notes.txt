@@ -8,6 +8,7 @@ requirmentsts for card:
 2.technical implementations
 	2.1 a circet that has an idear or is reproducable
 	2.2 power by USB-c plug
+	2.3 blode pluse detection and oxidation level
 
 3. good to now to get started
 https://hackaday.com/2021/04/21/easy-usb%E2%80%91c-power-for-all-your-devices/
@@ -25,3 +26,6 @@ https://hackaday.io/project/203294-25-year-anniversary-business-card/details
 
 linux
 https://www.thirtythreeforty.net/posts/2019/12/my-business-card-runs-linux/
+
+puls and oxygen detection with red and green LED
+https://hackaday.com/2024/07/23/you-can-use-leds-as-sensors-too/
