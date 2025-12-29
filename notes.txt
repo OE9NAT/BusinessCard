@@ -8,7 +8,9 @@ requirmentsts for card:
 2.technical implementations
 	2.1 a circet that has an idear or is reproducable
 	2.2 power by USB-c plug
-	2.3 blode pluse detection and oxidation level
+	2.3 blood pluse detection and oxidation level
+	2.4 internal temperature monitoring with pin PB3 and PB4
+	    code “1111” to the MUX[3:0] bits in ADMUX register
 
 3. good to now to get started
 https://hackaday.com/2021/04/21/easy-usb%E2%80%91c-power-for-all-your-devices/
