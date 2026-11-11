@@ -1,6 +1,8 @@
+//  flasch mit Sketch/upload using programer
+
 const int pins[] = {0, 1, 2};
-const int povDelay = 40;        // Time each LED stays on (ms)
-const int displayDuration = 2000; // Duration for each number (ms)
+const int povDelay = 8;        // Time each LED stays on (ms) slow = 40
+const int displayDuration = 5000; // Duration for each number (ms)
 
 // Map LED indices 0-5 to {Anode Pin, Cathode Pin}
 const int ledMap[6][2] = {
